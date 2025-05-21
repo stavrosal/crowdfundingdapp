@@ -6,10 +6,10 @@ You can see the live version of the application [here](https://stavrosal.github.
 
 
 ## Features
-- View Campaigns: Display active crowdfunding campaigns.
+- **View Campaigns:** Display active crowdfunding campaigns.
 
-- Contribute to Campaigns: Users can make contributions to the campaigns by sending Ether.
+- **Contribute to Campaigns:** Users can make contributions to the campaigns by sending Ether.
 
-- Get refunded from cancelled/banned campaigns.
+- Get **refunded** from cancelled/banned campaigns.
 
 **Note:** This repository contains only the static version of the application. If you would like access to the source code, please contact [me](mailto:stavrosgramer@gmail.com) for more information.
